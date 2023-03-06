@@ -41,7 +41,7 @@ O aplicativo tem como objetivo integrar os dados que envolvem o Trote Solidário
 
 ---
 
-O Trote Solidário, pioneirismo do Uni-FACEF, visa integrar Calouros e Veteranos por meio de uma gincana com ações de solidariedade. Esta é uma das formas encontradas pelo Uni-FACEF para estimular a consciência cidadã em seus estudantes, para que sejam profissionais justos, éticos, solidários e atentos à causa ambiental. <a href="https://www.unifacef.com.br/extensao/trote-solidario/"> Veja mais</a>
+O Trote Solidário, pioneirismo do Uni-FACEF, visa integrar Calouros e Veteranos por meio de uma gincana com ações de solidariedade. Esta é uma das formas encontradas pelo Uni-FACEF para estimular a consciência cidadã em seus estudantes, para que sejam profissionais justos, éticos, solidários e atentos à causas sociais. <a href="https://www.unifacef.com.br/extensao/trote-solidario/"> Veja mais</a>
 </br>
 
 ## 📘 Quem é Uni-facef?
