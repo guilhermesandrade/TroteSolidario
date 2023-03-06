@@ -18,10 +18,9 @@ Superior Uni-Facef
 <img alt="Projeto trote Solidario" src="./assets/logo2.png" width="25%">
 </p>
 
+---
 
 ## 💎 Tecnologias</p>
-
----
 
 O projeto está sendo desenvolvido com as seguintes tecnologias:
 
@@ -32,21 +31,17 @@ O projeto está sendo desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
----
-
 O aplicativo tem como objetivo integrar os dados que envolvem o Trote Solidário em um unico lugar, de maneira funcional e atrativa ao público.<a href="#-projeto"> Ver Projeto (Em breve)</a>
 </br>
 
 ## 🤝 O que é o Trote Solidário?
-
----
 
 O Trote Solidário, pioneirismo do Uni-FACEF, visa integrar Calouros e Veteranos por meio de uma gincana com ações de solidariedade. Esta é uma das formas encontradas pelo Uni-FACEF para estimular a consciência cidadã em seus estudantes, para que sejam profissionais justos, éticos, solidários e atentos à causas sociais. <a href="https://www.unifacef.com.br/extensao/trote-solidario/"> Veja mais</a>
 </br>
 
 ## 📘 Quem é Uni-facef?
 
----
-
 O Centro Universitário Municipal de Franca (Uni-FACEF) é uma instituição de ensino superior pública brasileira, situada na cidade de Franca, São Paulo e administrada pelo município como uma autarquia.
 <a href="https://www.unifacef.com.br/"> Veja mais</a>
+
+---
