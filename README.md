@@ -15,29 +15,29 @@ Superior Uni-Facef
 </p>
 
 <p align="center">
-<img alt="Projeto trote Solidario" src="./assets/logo2.png" width="25%">
+<img alt="Projeto trote Solidario" src="./.github/bg-readme.jpg" width="100%">
 </p>
 
----
+<br />
 
 ## 💎 Tecnologias</p>
 
 O projeto está sendo desenvolvido com as seguintes tecnologias:
 
--HTML e CSS </br>
--Javascript (Em breve)</br>
+-HTML e CSS <br />
+-Javascript (Em breve)<br />
 -Git e Github
-</br>
+<br />
 
 ## 💻 Projeto
 
 O aplicativo tem como objetivo integrar os dados que envolvem o Trote Solidário em um unico lugar, de maneira funcional e atrativa ao público.<a href="#-projeto"> Ver Projeto (Em breve)</a>
-</br>
+<br />
 
 ## 🤝 O que é o Trote Solidário?
 
 O Trote Solidário, pioneirismo do Uni-FACEF, visa integrar Calouros e Veteranos por meio de uma gincana com ações de solidariedade. Esta é uma das formas encontradas pelo Uni-FACEF para estimular a consciência cidadã em seus estudantes, para que sejam profissionais justos, éticos, solidários e atentos à causas sociais. <a href="https://www.unifacef.com.br/extensao/trote-solidario/"> Veja mais</a>
-</br>
+<br />
 
 ## 📘 Quem é Uni-facef?
 
