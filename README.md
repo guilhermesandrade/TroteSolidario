@@ -9,9 +9,9 @@ Superior Uni-Facef
 -
 <a href="#-projeto">Projeto</a>
 -
-<a href="#-trotesolidario">Trote Solidário</a>
+<a href="https://www.unifacef.com.br/extensao/trote-solidario/">Trote Solidário</a>
 -
-<a href="#-unifacef">Uni-Facef</a>
+<a href="https://www.unifacef.com.br/">Uni-Facef</a>
 </p>
 
 <p align="center">
