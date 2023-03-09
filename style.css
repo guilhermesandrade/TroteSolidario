@@ -27,7 +27,7 @@
   --stroke-color: rgba(0, 0, 0, 0.5);
   --stroke-hover: black;
 
-  --surface-color: rgba(0, 0, 0, 0.2);
+  --surface-color: rgba(0, 0, 0, 0.12);
   --surface-hover: rgba(0, 0, 0, 0.05);
 
   --social-links-hover: rgba(0, 0, 0, 0.2);
@@ -117,4 +117,10 @@ ul li a {
 
 #social-links a:hover {
   background: var(--social-links-hover);
+}
+
+footer {
+  text-align: center;
+  font-weight: 500;
+  font-size: 14px;
 }
