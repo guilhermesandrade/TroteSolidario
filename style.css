@@ -7,9 +7,30 @@
 
 /*variaveis light-dark*/
 
+:root {
+  --text-color: white;
+  --bg-url: url(./assets/mobile-dark.jpg);
+
+  --stroke-color: rgba(255, 255, 255, 0.5);
+  --stroke-hover: white;
+
+  --surface-color: rgba(255, 255, 255, 0.1);
+  --surface-hover: rgba(255, 255, 255, 0.05);
+
+  --social-links-hover: rgba(255, 255, 255, 0.2);
+}
+
 .light {
   --text-color: black;
   --bg-url: url(./assets/mobile-light.jpg);
+
+  --stroke-color: rgba(0, 0, 0, 0.5);
+  --stroke-hover: black;
+
+  --surface-color: rgba(0, 0, 0, 0.2);
+  --surface-hover: rgba(0, 0, 0, 0.05);
+
+  --social-links-hover: rgba(0, 0, 0, 0.2);
 }
 
 /*Corpo da pagina*/
@@ -39,6 +60,7 @@ body * {
 #profile p {
   font-weight: 500;
   line-height: 24px;
+  padding: 10px 0px;
 }
 
 /* Lista */
@@ -62,16 +84,16 @@ ul li a {
   text-decoration: none;
   font-weight: 500;
 
-  background: rgba(255, 255, 255, 0.1);
-  border: 1px solid rgba(255, 255, 255, 0.5);
+  background: var(--surface-color);
+  border: 1px solid var(--stroke-color);
   border-radius: 8px;
 
   transition: background 0.4s;
 }
 
 #container ul li a:hover {
-  background: rgba(255, 255, 255, 0.05);
-  border: 1px solid white;
+  background: var(--surface-hover);
+  border: 1px solid var(--stroke-hover);
 }
 
 #social-links {
@@ -94,5 +116,5 @@ ul li a {
 }
 
 #social-links a:hover {
-  background: rgba(255, 255, 255, 0.2);
+  background: var(--social-links-hover);
 }
