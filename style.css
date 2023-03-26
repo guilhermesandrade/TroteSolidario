@@ -1,15 +1,16 @@
 /* reset css*/
 * {
   margin: 0;
-  padding: 0;
   box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 /*variaveis light-dark*/
 
 :root {
   --text-color: white;
-  --bg-url: url(./assets/mobile-dark.jpg);
+  --bg-url: url(./assets/bg-dark2.jpg);
   --switch-bg-url: url(./assets/moon-stars.svg);
 
   --stroke-color: rgba(255, 255, 255, 0.5);
@@ -23,7 +24,7 @@
 
 .light {
   --text-color: black;
-  --bg-url: url(./assets/mobile-light.jpg);
+  --bg-url: url(./assets/bg-light2.jpg);
   --switch-bg-url: url(./assets/sun.svg);
 
   --stroke-color: rgba(0, 0, 0, 0.5);
@@ -37,7 +38,9 @@
 
 /*Corpo da pagina*/
 body {
-  background: var(--bg-url) no-repeat top center / cover;
+  border: 1px solid rgba(255, 255, 255, 0);
+  background: var(--bg-url) no-repeat center / cover;
+  height: 100vh;
 }
 body * {
   font-family: "Inter", sans-serif;
@@ -56,59 +59,49 @@ body * {
 /*perfil*/
 
 #profile img {
-  width: 112px;
-}
-
-#profile p {
-  font-weight: 500;
-  line-height: 24px;
-  padding: 10px 0px;
+  width: 200px;
+  padding-bottom: 15px;
 }
 
 /*switch de tema*/
 
-#switch{
-
-  position:relative;
+#switch {
+  position: relative;
   width: 64px;
 
-  margin:4px auto;
+  margin: 4px auto;
 }
 
-#switch button{
-
+#switch button {
   border: 1px solid green;
-  width:32px;
-  height:32px;
+  width: 32px;
+  height: 32px;
   background: white var(--switch-bg-url) no-repeat center;
-  border:0;
-  border-radius:50%;
+  border: 0;
+  border-radius: 50%;
 
-  position:absolute;
-  top:50%;
-  left:0;
+  position: absolute;
+  top: 50%;
+  left: 0;
   z-index: 1;
   transform: translateY(-50%);
 
   animation: slide-back 0.4s;
 }
 
-.light #switch button{
-
-  animation:slide-in 0.4s forwards;
+.light #switch button {
+  animation: slide-in 0.4s forwards;
 }
 
-#switch button:hover{
-
-  outline:8px solid var(--highlight-color);
-  transition:outline 0.2s;
+#switch button:hover {
+  outline: 8px solid var(--highlight-color);
+  transition: outline 0.2s;
 }
 
-#switch span{
-   
-  display:block;
-  width:64px;
-  height:24px;
+#switch span {
+  display: block;
+  width: 64px;
+  height: 24px;
   background: var(--surface-color);
   border: 1px solid var(--stroke-color);
   backdrop-filter: blur(4px);
@@ -180,24 +173,20 @@ footer {
   font-size: 14px;
 }
 
-@keyframes slide-in{
-
-  from{
-
-    left:0;
-  }to{
-
-    left:50%;
+@keyframes slide-in {
+  from {
+    left: 0;
+  }
+  to {
+    left: 52%;
   }
 }
 
-@keyframes slide-back{
-
-  from{
-
-    left:50%;
-  }to{
-
-    left:0;
+@keyframes slide-back {
+  from {
+    left: 52%;
+  }
+  to {
+    left: 0;
   }
 }
