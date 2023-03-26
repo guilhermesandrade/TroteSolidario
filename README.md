@@ -7,7 +7,7 @@ Superior Uni-Facef
 <p align="center">
 <a href="#-tecnologias">Tecnologias</a>
 -
-<a href="#-projeto">Projeto</a>
+<a href="https://guilhermesandrade.github.io/TroteSolidario/">Projeto</a>
 -
 <a href="https://www.unifacef.com.br/extensao/trote-solidario/">Trote Solidário</a>
 -
@@ -25,13 +25,13 @@ Superior Uni-Facef
 O projeto está sendo desenvolvido com as seguintes tecnologias:
 
 -HTML e CSS <br />
--Javascript (Em breve)<br />
+-Javascript <br />
 -Git e Github
 <br />
 
 ## 💻 Projeto
 
-O aplicativo tem como objetivo integrar os dados que envolvem o Trote Solidário em um unico lugar, de maneira funcional e atrativa ao público.<a href="#-projeto"> Ver Projeto (Em breve)</a>
+O aplicativo tem como objetivo integrar os dados que envolvem o Trote Solidário em um unico lugar, de maneira funcional e atrativa ao público.<a href="https://guilhermesandrade.github.io/TroteSolidario/"> Ver Projeto</a>
 <br />
 
 ## 🤝 O que é o Trote Solidário?
