@@ -73,7 +73,7 @@ body * {
 }
 
 #switch button {
-  border: 1px solid green;
+  
   width: 32px;
   height: 32px;
   background: white var(--switch-bg-url) no-repeat center;
