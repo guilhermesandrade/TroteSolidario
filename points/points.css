@@ -172,3 +172,26 @@ h1 {
   }
 }
 
+@media (max-width:800px){
+
+  :root{
+
+    --bg-url: url(./assets/bg-darkmobile.jpg);
+  }
+  .light{
+
+    --bg-url: url(./assets/bg-lightmobile.jpg);
+  }
+
+ #container{
+
+  width:400px;
+  margin:-100px;
+ } 
+#switch{
+
+  margin:10px auto;
+}
+
+  
+}

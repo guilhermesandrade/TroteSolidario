@@ -128,3 +128,36 @@ ul li{
     left: 0;
   }
 }
+
+@media (max-width:800px){
+
+  :root{
+
+    --bg-url: url(./assets/bg-darkmobile.jpg);
+  }
+  .light{
+
+    --bg-url: url(./assets/bg-lightmobile.jpg);
+  }
+
+  #container{
+
+    margin-top:-100px;
+  }
+h1{
+
+  width:400px;
+margin:auto;
+}
+ul{
+
+  width:400px;
+  margin:auto;
+}
+#switch{
+
+  margin:10px auto;
+}
+
+  
+}
