@@ -31,7 +31,7 @@ O projeto está sendo desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O aplicativo tem como objetivo integrar os dados que envolvem o Trote Solidário em um unico lugar, de maneira funcional e atrativa ao público.<a href="https://guilhermesandrade.github.io/TroteSolidario/"> Ver Projeto</a>
+O aplicativo tem como objetivo integrar os dados que envolvem o Trote Solidário em um unico lugar, de maneira funcional e atrativa ao público. O projeto também pode ser visualizado em plataforma mobile.<a href="https://guilhermesandrade.github.io/TroteSolidario/"> Ver Projeto</a>
 <br />
 
 ## 🤝 O que é o Trote Solidário?
