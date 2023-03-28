@@ -133,11 +133,11 @@ ul li{
 
   :root{
 
-    --bg-url: url(./assets/bg-darkmobile.jpg);
+    --bg-url: url(./assets/bg-darkmobile2.jpg);
   }
   .light{
 
-    --bg-url: url(./assets/bg-lightmobile.jpg);
+    --bg-url: url(./assets/bg-lightmobile2.jpg);
   }
 
   #container{
@@ -146,12 +146,12 @@ ul li{
   }
 h1{
 
-  width:450px;
+  width:400px;
 margin:auto;
 }
 ul{
 
-  width:450px;
+  width:400px;
   margin:auto;
 }
 #switch{
