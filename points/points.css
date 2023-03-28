@@ -53,6 +53,8 @@ h1 {
   border: 1px solid var(--stroke-color);
   border-radius: 20px;
   background: var(--surface-color);
+  width:400px;
+  margin:auto;
   backdrop-filter: blur(4px);
   -webkit-backdrop-filter: blur(4px);
 }
@@ -115,7 +117,7 @@ h1 {
 #switch {
   position: relative;
   width: 64px;
-  margin: 20px 0px 0px 740px;
+  margin: 20px auto;
 }
 
 #switch button {
@@ -182,12 +184,22 @@ h1 {
 
     --bg-url: url(./assets/bg-lightmobile.jpg);
   }
+#container{
 
- #container{
+  margin-top:-100px;
+}
+ h1{
 
-  width:400px;
-  
+  width:500px;
+  margin:auto;
+
  } 
+
+ #all{
+
+  width:500px;
+  margin:auto;
+ }
 #switch{
 
   margin:10px auto;
