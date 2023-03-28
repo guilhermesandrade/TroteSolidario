@@ -31,10 +31,10 @@
   --stroke-color: rgba(0, 0, 0, 0.5);
   --stroke-hover: black;
 
-  --surface-color: rgba(0, 0, 0, 0.12);
-  --surface-hover: rgba(0, 0, 0, 0.05);
+  --surface-color: rgba(0, 0, 0, 0.05);
+  --surface-hover: rgba(0, 0, 0, 0.1);
 
-  --highlight-color: rgba(0, 0, 0, 0.2);
+  --highlight-color: rgba(0, 0, 0, 0.1);
 }
 
 /*Corpo da pagina*/
@@ -135,7 +135,7 @@ ul li a {
   border: 1px solid var(--stroke-color);
   border-radius: 8px;
 
-  transition: background 0.4s;
+  transition: background 0.3s;
 }
 
 #container ul li a:hover {
