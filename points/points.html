@@ -16,43 +16,56 @@
   </head>
   <body>
     <div id="container">
-      <h1>
-        Calcule os pontos obtidos na Gincana
-      </h1>
+      <div id="initialpage">
+        <a href="../index.html">⬅ Voltar</a>
+      </div>
+
+      <img src="./assets/logo1.png" alt="Logo trote Solidário" />
+
+      <div id="switch" onclick="togglemode()">
+        <button></button>
+        <span></span>
+      </div>
+
+      <h1>Calcule os pontos obtidos na Gincana</h1>
       <div id="all">
         <div>
-          <p>📦 Informe o total de cestas doadas (até 80)
-          <input type="number" id="baskets" /></p>
+          <p>
+            📦 Informe o total de cestas doadas (até 80)
+            <input type="number" id="baskets" />
+          </p>
         </div>
         <div>
           <button onclick="baskets()">Calcular Pontos</button>
         </div>
-        <p> Resultado abaixo:</p>
+        <p>Resultado abaixo:</p>
         <p id="points"></p>
-<hr/>
+        <hr />
         <div>
-          <p>🎁 Informe o total de cestas extras doadas<input
-            type="number" id="extrabaskets"/></p>
+          <p>
+            🎁 Informe o total de cestas extras doadas<input
+              type="number"
+              id="extrabaskets"
+            />
+          </p>
         </div>
         <div>
           <button onclick="extrabaskets()">Calcular Pontos</button>
         </div>
-        <p> Resultado abaixo:</p>
+        <p>Resultado abaixo:</p>
         <p id="pointsx"></p>
-<hr/>
+        <hr />
         <div>
-          <p>🩸 Informe quantas doações de sangue foram feitas
-          <input type="number" id="blood" /></p>
+          <p>
+            🩸 Informe quantas doações de sangue foram feitas
+            <input type="number" id="blood" />
+          </p>
         </div>
         <div>
           <button onclick="blood()">Calcular Pontos</button>
         </div>
-        <p> Resultado abaixo:</p>
+        <p>Resultado abaixo:</p>
         <p id="pointsb"></p>
-      </div>
-      <div id="switch" onclick="togglemode()">
-        <button></button>
-        <span></span>
       </div>
     </div>
     <script src="./points.js"></script>

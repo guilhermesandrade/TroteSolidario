@@ -29,9 +29,10 @@
 
 body{
 
-background:var(--bg-url)no-repeat center / cover;
+background: var(--bg-url)no-repeat center / cover;
 height:100vh;
 transition:0.5s;
+
 display: flex;
   justify-content: center;
 padding-top:50px;
