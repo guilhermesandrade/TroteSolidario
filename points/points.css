@@ -34,7 +34,7 @@
 
 body {
   background: var(--bg-url) no-repeat center / cover;
-  height: 155vh;
+  height: 205vh;
   transition:0.5s;
   display: flex;
   justify-content: center;

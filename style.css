@@ -43,7 +43,7 @@
 body {
   border: 1px solid rgba(255, 255, 255, 0);
   background: var(--bg-url) no-repeat center / cover;
-  height: 130vh;
+  height: 180vh;
   transition:0.5s;
 }
 body * {

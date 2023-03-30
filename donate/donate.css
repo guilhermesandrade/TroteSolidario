@@ -30,7 +30,7 @@
 body{
 
 background: var(--bg-url)no-repeat center / cover;
-height:145vh;
+height:195vh;
 transition:0.5s;
 
 display: flex;

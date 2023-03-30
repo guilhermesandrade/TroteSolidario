@@ -29,7 +29,7 @@
 
 body {
   background: var(--bg-url) no-repeat center / cover;
-  height: 125vh;
+  height: 175vh;
 transition:0.5s;
   display: flex;
   justify-content: center;
