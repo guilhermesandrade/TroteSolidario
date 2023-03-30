@@ -43,7 +43,7 @@
 body {
   border: 1px solid rgba(255, 255, 255, 0);
   background: var(--bg-url) no-repeat center / cover;
-  height: 100vh;
+  height: 130vh;
   transition:0.5s;
 }
 body * {
@@ -175,6 +175,7 @@ footer {
   text-align: center;
   font-weight: 500;
   font-size: 14px;
+  padding-bottom: 50px;
 }
 
 @keyframes slide-in {
