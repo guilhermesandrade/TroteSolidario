@@ -207,4 +207,9 @@ footer {
     --bg-url: url(./assets/bg-lightmobile.jpg);
   }
 
+  #switch button:hover {
+  outline: 0;
+  transition: 0;
+}
+
 }

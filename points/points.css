@@ -259,22 +259,24 @@ footer {
     --bg-url: url(./assets/bg-lightmobile2.jpg);
   }
 
+body {
+
+  height: 185vh;
+  }
+
  h1{
 
-  width:400px;
+  width:350px;
   margin:auto;
 
  } 
 
  #all{
 
-  width:400px;
+  width:350px;
   margin:auto;
  }
-#switch{
 
-  margin:10px auto;
-}
 #switch button:hover {
   outline: 0;
   transition: 0;

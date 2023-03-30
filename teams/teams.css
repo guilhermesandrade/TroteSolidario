@@ -210,20 +210,22 @@ footer {
     --bg-url: url(./assets/bg-lightmobile.jpg);
   }
 
+body {
+
+  height: 145vh;
+  }
+
 h1{
 
-  width:400px;
+  width:350px;
 margin:auto;
 }
 ul{
 
-  width:400px;
+  width:350px;
   margin:auto;
 }
-#switch{
 
-  margin:10px auto;
-}
 #switch button:hover {
   outline: 0;
   transition: 0;
