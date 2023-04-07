@@ -34,7 +34,7 @@
 
 body {
   background: var(--bg-url) no-repeat center / cover;
-  height: 205vh;
+  height: 300vh;
   transition:0.5s;
   display: flex;
   justify-content: center;
@@ -141,6 +141,78 @@ h1 {
   text-align: center;
 }
 
+#pointsa {
+  background: var(--p-bg);
+  border-radius: 5px;
+  width: 280px;
+  margin: 10px auto;
+  text-align: center;
+}
+
+#pointss {
+  background: var(--p-bg);
+  border-radius: 5px;
+  width: 280px;
+  margin: 10px auto;
+  text-align: center;
+}
+
+#pointsr {
+  background: var(--p-bg);
+  border-radius: 5px;
+  width: 280px;
+  margin: 10px auto;
+  text-align: center;
+}
+
+#pointsr1 {
+  background: var(--p-bg);
+  border-radius: 5px;
+  width: 280px;
+  margin: 10px auto;
+  text-align: center;
+}
+
+#pointsbe {
+  background: var(--p-bg);
+  border-radius: 5px;
+  width: 280px;
+  margin: 10px auto;
+  text-align: center;
+}
+
+#pointsbe1 {
+  background: var(--p-bg);
+  border-radius: 5px;
+  width: 280px;
+  margin: 10px auto;
+  text-align: center;
+}
+
+#pointsp {
+  background: var(--p-bg);
+  border-radius: 5px;
+  width: 280px;
+  margin: 10px auto;
+  text-align: center;
+}
+
+#pointso {
+  background: var(--p-bg);
+  border-radius: 5px;
+  width: 280px;
+  margin: 10px auto;
+  text-align: center;
+}
+
+#pointst {
+  background: var(--p-bg);
+  border-radius: 5px;
+  width: 280px;
+  margin: 10px auto;
+  text-align: center;
+}
+
 #switch {
   position: relative;
   width: 64px;
@@ -240,13 +312,6 @@ footer {
   }
 }
 
-@media (min-height:1080px){
-
-  body {
-
-  height: 102vh;
-  }
-}
 
 @media (max-width:800px){
 
@@ -261,7 +326,7 @@ footer {
 
 body {
 
-  height: 185vh;
+  height: 285vh;
   }
 
  h1{
