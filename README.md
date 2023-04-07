@@ -5,7 +5,7 @@ Superior Uni-Facef
 </p>
 
 <p align="center">
-<a href="#-tecnologias">Tecnologias</a>
+<a href="#-tecnologias">Tecnologias </a>
 -
 <a href="https://guilhermesandrade.github.io/TroteSolidario/">Projeto</a>
 -
