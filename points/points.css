@@ -34,7 +34,7 @@
 
 body {
   background: var(--bg-url) no-repeat center / cover;
-  height: 420vh;
+  height: 120vh;
   transition: 0.5s;
   display: flex;
   justify-content: center;
@@ -302,25 +302,52 @@ footer {
     left: 0;
   }
 }
+/*mobile*/
 
-@media (max-width: 800px) {
+@media (max-width: 370px) {
   :root {
-    --bg-url: url(./assets/bg-darkmobile2.jpg);
+    --bg-url: url(./assets/bg-darkmobile.jpg);
   }
   .light {
-    --bg-url: url(./assets/bg-lightmobile2.jpg);
+    --bg-url: url(./assets/bg-lightmobile.jpg);
   }
 
   body {
-    height: 450vh;
+    height: 430vh;
+  }
+
+  h1 {
+    width: 250px;
+    margin: auto;
+  }
+  ul {
+    width: 250px;
+    margin: auto;
+  }
+
+  #switch button:hover {
+    outline: 0;
+    transition: 0;
+  }
+}
+
+@media ((min-width: 375px) and (max-width: 380px)) {
+  :root {
+    --bg-url: url(./assets/bg-darkmobile.jpg);
+  }
+  .light {
+    --bg-url: url(./assets/bg-lightmobile.jpg);
+  }
+
+  body {
+    height: 400vh;
   }
 
   h1 {
     width: 350px;
     margin: auto;
   }
-
-  #all {
+  ul {
     width: 350px;
     margin: auto;
   }
@@ -328,5 +355,93 @@ footer {
   #switch button:hover {
     outline: 0;
     transition: 0;
+  }
+}
+@media ((min-width: 390px)and (max-width: 395px)) {
+  :root {
+    --bg-url: url(./assets/bg-darkmobile.jpg);
+  }
+  .light {
+    --bg-url: url(./assets/bg-lightmobile.jpg);
+  }
+
+  body {
+    height: 310vh;
+  }
+  h1 {
+    width: 350px;
+    margin: auto;
+  }
+  ul {
+    width: 350px;
+    margin: auto;
+  }
+
+  #switch button:hover {
+    outline: 0;
+    transition: 0;
+  }
+}
+
+@media ((min-width: 400px)and (max-width: 420px)) {
+  :root {
+    --bg-url: url(./assets/bg-darkmobile.jpg);
+  }
+  .light {
+    --bg-url: url(./assets/bg-lightmobile.jpg);
+  }
+
+  body {
+    height: 355vh;
+  }
+  h1 {
+    width: 350px;
+    margin: auto;
+  }
+  ul {
+    width: 350px;
+    margin: auto;
+  }
+
+  #switch button:hover {
+    outline: 0;
+    transition: 0;
+  }
+}
+
+/* desktop */
+
+
+@media ((min-width: 1280px) and (max-width: 1290px)) {
+  :root {
+    --bg-url: url(./assets/bg-dark2.jpg);
+  }
+  .light {
+    --bg-url: url(./assets/bg-light2.jpg);
+  }
+  body {
+    height: 358vh;
+  }
+}
+@media ((min-width: 1360px)and (max-width: 1370px)) {
+  :root {
+    --bg-url: url(./assets/bg-dark2.jpg);
+  }
+  .light {
+    --bg-url: url(./assets/bg-light2.jpg);
+  }
+  body {
+    height: 335vh;
+  }
+}
+@media ((min-width: 1920px)and (max-width: 1980px)) {
+  :root {
+    --bg-url: url(./assets/bg-dark2.jpg);
+  }
+  .light {
+    --bg-url: url(./assets/bg-light2.jpg);
+  }
+  body {
+    height: 270vh;
   }
 }
