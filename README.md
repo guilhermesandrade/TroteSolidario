@@ -1,6 +1,6 @@
 <h1 align="center"> 𝚃𝚛𝚘𝚝𝚎 𝚂𝚘𝚕𝚒𝚍𝚊𝚛𝚒𝚘 </h1>
 
-<p align="center">Projeto em desenvolvimento dedicado ao Trote Solidário da Instituição de ensino
+<p align="center">Projeto desenvolvido dedicado ao Trote Solidário da Instituição de ensino
 Superior Uni-Facef
 </p>
 
@@ -22,7 +22,7 @@ Superior Uni-Facef
 
 ## 💎 Tecnologias</p>
 
-O projeto está sendo desenvolvido com as seguintes tecnologias:
+O projeto foi desenvolvido com as seguintes tecnologias:
 
 -HTML e CSS <br />
 -Javascript <br />
