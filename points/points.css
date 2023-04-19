@@ -313,7 +313,7 @@ footer {
   }
 
   body {
-    height: 430vh;
+    height: 480vh;
   }
 
   h1 {
@@ -340,7 +340,7 @@ footer {
   }
 
   body {
-    height: 400vh;
+    height: 450vh;
   }
 
   h1 {
@@ -366,7 +366,7 @@ footer {
   }
 
   body {
-    height: 310vh;
+    height: 360vh;
   }
   h1 {
     width: 350px;
@@ -392,7 +392,7 @@ footer {
   }
 
   body {
-    height: 355vh;
+    height: 405vh;
   }
   h1 {
     width: 350px;
@@ -420,7 +420,7 @@ footer {
     --bg-url: url(./assets/bg-light2.jpg);
   }
   body {
-    height: 358vh;
+    height: 408vh;
   }
 }
 @media ((min-width: 1360px)and (max-width: 1370px)) {
@@ -431,7 +431,7 @@ footer {
     --bg-url: url(./assets/bg-light2.jpg);
   }
   body {
-    height: 418vh;
+    height: 468vh;
   }
 }
 @media ((min-width: 1920px)and (max-width: 1980px)) {
@@ -442,6 +442,6 @@ footer {
     --bg-url: url(./assets/bg-light2.jpg);
   }
   body {
-    height: 270vh;
+    height: 320vh;
   }
 }
