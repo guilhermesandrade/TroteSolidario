@@ -431,7 +431,7 @@ footer {
     --bg-url: url(./assets/bg-light2.jpg);
   }
   body {
-    height: 415vh;
+    height: 418vh;
   }
 }
 @media ((min-width: 1920px)and (max-width: 1980px)) {
