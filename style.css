@@ -194,7 +194,7 @@ footer {
 
 /*mobile*/
 
-@media (max-width: 360px) {
+@media (max-width: 370px) {
   :root {
     --bg-url: url(./assets/bg-darkmobile.jpg);
   }
@@ -221,7 +221,7 @@ footer {
   }
 }
 
-@media (min-width: 375px) {
+@media ((min-width: 375px) and (max-width: 380px)) {
   :root {
     --bg-url: url(./assets/bg-darkmobile.jpg);
   }
@@ -247,7 +247,7 @@ footer {
     transition: 0;
   }
 }
-@media (min-width: 390px) {
+@media ((min-width: 390px)and (max-width: 395px)) {
   :root {
     --bg-url: url(./assets/bg-darkmobile.jpg);
   }
@@ -273,7 +273,7 @@ footer {
   }
 }
 
-@media (min-width: 400px) {
+@media ((min-width: 400px)and (max-width: 420px)) {
   :root {
     --bg-url: url(./assets/bg-darkmobile.jpg);
   }
@@ -302,7 +302,7 @@ footer {
 /* desktop */
 
 
-@media (min-width: 1280px) {
+@media ((min-width: 1280px) and (max-width: 1290px)) {
   :root {
     --bg-url: url(./assets/bg-dark2.jpg);
   }
@@ -313,7 +313,7 @@ footer {
     height: 125vh;
   }
 }
-@media (min-width: 1366px) {
+@media ((min-width: 1360px)and (max-width: 1370px)) {
   :root {
     --bg-url: url(./assets/bg-dark2.jpg);
   }
@@ -321,10 +321,10 @@ footer {
     --bg-url: url(./assets/bg-light2.jpg);
   }
   body {
-    height: 118vh;
+    height: 145vh;
   }
 }
-@media (min-width: 1920px) {
+@media ((min-width: 1920px)and (max-width: 1980px)) {
   :root {
     --bg-url: url(./assets/bg-dark2.jpg);
   }
