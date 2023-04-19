@@ -15,7 +15,7 @@ Superior Uni-Facef
 </p>
 
 <p align="center">
-<img alt="Projeto trote Solidario" src="./.github/bg-readme.jpg" width="100%">
+<img alt="Projeto trote Solidario" src="./artes trote solidario/bg-readme-final4.jpg" width="100%">
 </p>
 
 <br />
