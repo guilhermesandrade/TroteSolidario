@@ -325,6 +325,19 @@ footer {
     height: 178vh;
   }
 }
+
+@media ((min-width: 1600px)and (max-width: 1900px)) {
+  :root {
+    --bg-url: url(./assets/bg-dark2.jpg);
+  }
+  .light {
+    --bg-url: url(./assets/bg-light2.jpg);
+  }
+  body {
+    height: 198vh;
+  }
+}
+
 @media ((min-width: 1920px)and (max-width: 1980px)) {
   :root {
     --bg-url: url(./assets/bg-dark2.jpg);
